@@ -1,0 +1,6 @@
+{
+  "name": "IdeaGPT",
+  "description": "A text-only, zero-login, stateless experience where you go head-to-head against the Gemini API, solving ridiculously absurd innovation scenarios in 10 seconds per round.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
